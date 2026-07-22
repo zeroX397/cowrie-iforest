@@ -1,0 +1,7 @@
+pandas
+numpy
+joblib
+python-dotenv
+mysql-connector-python
+requests
+scikit-learn==1.6.1
