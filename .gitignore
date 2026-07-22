@@ -1,0 +1,5 @@
+.env
+venv/
+cowrie_offset.json
+__pycache__/
+*.log
